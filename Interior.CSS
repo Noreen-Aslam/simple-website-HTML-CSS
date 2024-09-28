@@ -1,0 +1,192 @@
+
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.showcase{
+    height: 100%;
+    width: 250px;
+    background-color: rgb(43, 40, 40);
+    color: antiquewhite;
+    padding: 20px;
+    position:fixed;
+    top: 0;
+    left: 0;
+}
+.showcase h2{
+    font-size: xx-large;
+}
+.content{
+    margin-left: 300px;
+    padding: 10%; 
+    /* box-shadow: 100%; */
+}
+.showcase a{
+    display: block;
+    color: rgb(247, 241, 241);
+    text-decoration: none;
+    padding: 20PX;
+}
+.showcase a.active{
+    background-color: rgb(60, 55, 55);
+}
+.showcase a:hover{
+    background-color: rgb(77, 74, 74);
+}
+.content h2{
+    color:rgb(34, 34, 33);
+}
+.content{
+    width: 70%;
+    padding: 10px;
+    
+}
+.image{
+    width: 30%;
+    float: right;
+}
+.image2{
+    width: 30%;
+    float: right;
+}
+.image3{
+    width: 30%;
+    float: right;
+}
+.content{
+    width: 70%;
+    padding: 10px;
+}
+.services{
+    padding: 10px;
+    color:rgb(51, 51, 50);
+}
+.designers{
+    padding: 10px;
+    
+}
+.designers h1{
+    color:rgb(43, 43, 42);
+    
+}
+.testimonials{
+    columns: 3;
+    padding: 10px;
+    margin: 5%;
+    float: right;
+}
+ .pic1{ 
+    height: 400px;
+    width: 250px;
+    background-color: rgb(198, 184, 184);
+    color: rgb(23, 23, 22);
+    padding: 10px;
+}
+.pic2{
+    height: 400px;
+    width: 250px;
+    background-color: rgb(198, 184, 184);
+    color: rgb(23, 23, 22);
+    padding: 10px;
+}
+.pic3{
+    height: 400px;
+    width: 250px;
+    background-color: rgb(198, 184, 184);
+    color: rgb(23, 23, 22);
+    padding: 10px;
+    
+
+} 
+ .packages{
+    width: 45%;
+    height: 380px;
+    background-color: rgb(160, 164, 163);
+    float: right;
+    padding: 15PX;
+    margin: 10px;
+    font-size: larger;
+ }
+ .packag{
+    width: 45%;
+    height: 380px;
+    background-color: rgb(160, 164, 163);
+    float: left;
+    padding: 15PX;
+    margin: 10px;
+    font-size: larger;
+ }
+
+ .noreen{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(104, 97, 97);
+    color: rgb(44, 44, 45);
+    columns: 1;
+    padding: 3%;
+ }
+ .pack{
+    font-size: xx-large;
+    color:rgb(46, 45, 45);
+ }
+
+ .form{
+    background-color: rgb(117, 120, 120);
+    width:1091px;
+    padding: 10px;
+    float: left;
+    font-size:large;
+    text-align: center;
+    color: azure;
+    height: 580px;
+    padding-block-end: 20px;
+    border-style:double;
+
+    
+ }
+ .fm{
+    text-align: left;
+    padding: 3%;
+    font-size: xx-large;
+    height: 500px;
+
+ }
+ .in{
+    float: right;
+    width: 70%;
+    padding: 10px;
+ }
+ .con{
+    text-align: center;
+ }
+
+
+
+.last {
+    width: 10px; /* You can modify this based on your design needs */
+}
+.footer{
+    /* background-color: yellowgreen;
+    height: 10%;
+    width: 50%;
+    float:left;
+    align-items:flex-end */
+    background-color: rgb(117, 120, 120);
+    width:1093px;
+    padding: 10px;
+    float: right;
+    font-size:large;
+    text-align: center;
+    color: azure;
+    /* padding-block-end: 20px; */
+    border-style:double;
+    margin-top: 10PX;
+    margin-right: 5%;
+    
+
+
+    
+    
+}
+
